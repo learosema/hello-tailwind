@@ -1,7 +1,7 @@
 /**
  * Tailwind's base styles
  */
-@tailwind preflight;
+@tailwind base;
 
 /**
  * Tailwind Components
