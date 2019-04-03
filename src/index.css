@@ -4,15 +4,15 @@
 @tailwind base;
 
 /**
-  * Tailwind Components
-  */
+ * Tailwind Components
+ */
 @tailwind components;
 
 /**
-  * Tailwind Utils
-  */
+ * Tailwind Utils
+ */
 @tailwind utilities;
 
 body {
-  @apply bg-purple-500 text-white;
+  @apply bg-green-500 text-white;
 }
