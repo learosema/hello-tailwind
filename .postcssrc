@@ -1,0 +1,8 @@
+{
+  "modules": true,
+  "plugins": {
+    "tailwindcss": './tailwind.js',
+    "postcss-preset-env": { stage: 0 },
+    "cssnano": {}
+  }
+}

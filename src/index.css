@@ -1,0 +1,14 @@
+/**
+ * Tailwind's base styles
+ */
+@tailwind preflight;
+
+/**
+ * Tailwind Components
+ */
+@tailwind components;
+
+/**
+ * Tailwind Utils
+ */
+@tailwind utilities;
